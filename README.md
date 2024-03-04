@@ -34,6 +34,4 @@ Keyvan Safarzadeh
 
 ## Images
 
-| SP Chars| Search Words|
-| :---: |:----:|
-| ![SPChars](images/xxx.png)     | ![SearchWords](images/xxx.png) |
+![preview](videos/preview.mp4)
