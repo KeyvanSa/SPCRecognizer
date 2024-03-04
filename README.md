@@ -32,6 +32,6 @@ Keyvan Safarzadeh
 - [ ] add corner background
 - [ ] change to use library
 
-## Images
+## Preview
 
-![preview](videos/preview.mp4)
+![preview](preview.mp4)
